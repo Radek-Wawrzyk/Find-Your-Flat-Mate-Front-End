@@ -1,0 +1,16 @@
+// Default font-size for the whole document
+html {
+  font-size: 1rem;
+}
+
+* {
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  line-height: 1.4;
+}
+
+a {
+  text-decoration: none;
+}
