@@ -1,4 +1,4 @@
-# Find your (flat) mate front-end app
+# Find your (flat) mate front-end app
 
 ## Requirements
 
